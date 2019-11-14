@@ -4,3 +4,7 @@ Oil
 Salt
 Onion
 Tomato
+
+
+Rice
+Garlic
